@@ -1,0 +1,6 @@
+framework module Pods_HomeCheck {
+  umbrella header "Pods-HomeCheck-umbrella.h"
+
+  export *
+  module * { export * }
+}
